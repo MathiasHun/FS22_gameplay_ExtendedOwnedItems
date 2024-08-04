@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/MathiasHun/FS22_gameplay_ExtendedOwnedItems/blob/main/eoi_icon.png)
 
-<p dir="auto"><strong><a href="https://sharemods.com/r77c9h7herlp/FS22_gameplay_ExtendedOwnedItems.zip.html">Download the latest developer version</a></strong> (the file FS22_gameplay_ExtendedOwnedItems.zip).</p>
+<p dir="auto"><strong><a href="https://sharemods.com/3jmoer28gigl/FS22_gameplay_ExtendedOwnedItems.zip.html">Download the latest developer version</a></strong> (the file FS22_gameplay_ExtendedOwnedItems.zip).</p>
 
 Thanks to this modification, the selling price of your owned items will vary.<br>
 The selling price can be profitable or unprofitable. Currently, the price changes randomly every hour.<br>
