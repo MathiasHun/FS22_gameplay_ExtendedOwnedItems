@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="80">
+	<author>MathiasHun</author>
+	<version>1.0.0.0</version>
+	<title>
+		<en>Extended Owned Items</en>
+	</title>
+	<description>
+		<en><![CDATA[Thanks to this modification, the selling price of your owned items will vary.
+The selling price can be profitable or unprofitable.
+Currently, the price changes randomly every hour.
+Loss: between -2% and -25%
+Profitable: between +2% and +25%
+
+Idea, jeery2995
+
+The mod is currently shared in Beta.
+
+Bug report, please visit https://github.com/MathiasHun/FS22_gameplay_RandomUsedVehiclesSale/
+
+]]></en>
+		<hu><![CDATA[Ennek a módosításnak köszönhetően a tulajdonában lévő tárgyak eladási ára változni fog.
+Az eladási ár lehet nyereséges vagy veszteséges.
+Jelenleg az ár véletlenszerűen változik óránként.
+Veszteség: -2% és -25% között
+Nyereséges: +2% és +25% között
+
+Ötlet, jeery2995
+
+A mod jelenleg béta verzióban van megosztva.
+
+Hibajelentés, kérjük látogassa meg https://github.com/MathiasHun/FS22_gameplay_RandomUsedVehiclesSale/
+
+]]></hu>
+	</description>
+	<iconFilename>icon_extendedOwnedItems.dds</iconFilename>
+	
+	<multiplayer supported="true"/>
+	
+	<extraSourceFiles>
+		<sourceFile filename="loader.lua"/>
+	</extraSourceFiles>
+
+</modDesc>
