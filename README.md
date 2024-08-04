@@ -13,3 +13,12 @@ Profitable: between +2% and +25%<br>
 Idea, jeery2995
 <br><br>
 The mod is currently shared in Beta.
+
+BEFORE
+
+![alt text](https://github.com/MathiasHun/FS22_gameplay_ExtendedOwnedItems/blob/main/eoi_before.png)
+
+AFTER
+
+![alt text](https://github.com/MathiasHun/FS22_gameplay_ExtendedOwnedItems/blob/main/eoi_after.png)
+![alt text](https://github.com/MathiasHun/FS22_gameplay_ExtendedOwnedItems/blob/main/eoi_after2.png)
