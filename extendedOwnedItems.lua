@@ -96,7 +96,7 @@ function extendedOwnedItems:WorkshopScreen_setVehicle(vehicle)
 	if vehicle ~= nil then
 		if vehicle.propertyState == Vehicle.PROPERTY_STATE_OWNED then
 			local sellPrice = math.min(math.floor(vehicle:getSellPrice() * EconomyManager.DIRECT_SELL_MULTIPLIER), vehicle:getPrice())
-			local priceStr "-"
+			local priceStr = "-"
 			if (vehicle.ownedItemsProfitLoss.plus_minus % 2 == 0) then
 				priceStr = string.format("%s (+%d%%)", g_i18n:formatMoney(sellPrice, 0, true, true), vehicle.ownedItemsProfitLoss.percentage)
 			else
